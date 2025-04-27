@@ -1,4 +1,5 @@
-# AIBOM Tiger Team
+# AI SBOM Tiger Team
+
 ## Table of Contents
 - [Overview](#overview)
 - [Guiding Principles](#guiding-principles)
@@ -8,11 +9,15 @@
   - [How to Get Involved](#how-to-get-involved)
 - [Contact](#contact)
 
+---
 
 ## Overview
-The AIBOM TT (Artificial Intelligence Bill of Materials) (Tiger Team) is a collaborative group focused on exploring, defining, and operationalizing the concept of AIBOMs. Our mission is to promote industry-wide and enhance transparency, security and risk management for AI through the development of AIBOM best practices. 
+The AI SBOM Tiger Team is a collaborative group focused on exploring, defining, and operationalizing the concept of AI SBOMs (AI Software Bill of Materials).  
+Our mission is to promote industry-wide transparency, security, and risk management for AI systems through the development of AI SBOM best practices.
 
-## Guiding Principles for AIBOM TT Working Group
+---
+
+## Guiding Principles for AI SBOM Tiger Team
 - **Outcome-driven:** Focus on achieving tangible results.
 - **Define and stick to scope:** Maintain clear boundaries for our work.
 - **Work is done outside of meetings:** Use meeting time for collaboration, not for individual work.
@@ -20,33 +25,44 @@ The AIBOM TT (Artificial Intelligence Bill of Materials) (Tiger Team) is a colla
 - **Expect change and need to adapt:** Stay flexible to new developments.
 - **Not advising USG:** This team does not set government policy.
 
-## Key Activities
-- Creating use cases and examples for practical applications of AIBOM
-- Developing white papers and documentation
-- Further scope to be defined (watch for the outcome from [AIBOM Workshop at SBOM-a-Rama, Fall 2024](https://github.com/aibom-squad/SBOM-a-Rama_AIBOM_Fall2024)
+---
 
-#### Additional Resources
-- Check out AIBOM examples [here](https://github.com/aibom-squad/rsa-2024/tree/main/aibom%20workshop%20examples/cybeats/cyclonedx) (from AIBOM workshop at RSA 2024)
-- Get familiar with core problems, identified by the community and is work-in-progress content, related to AI transparency and relevance to AIBOM: go to [this page](https://github.com/aibom-squad/AIBOM-Tiger-Team/blob/main/AIBOM-problem-statements.md)
-- Learn about on-going work on AIBOM Use Cases is in the [Google Doc](https://docs.google.com/document/d/1IpXG7XBOJnPl_hwFf3JZkDaFb0k2CnI0/edit?usp=sharing&ouid=110194678381965933391&rtpof=true&sd=true): the spreadsheet with use case breakdown, consolidated AIBOM use case doc (for publishing), and meeting minutes
-- AIBOM Tiger Team presentation at CISA SBOM-a-Rama in Denver, Fall 2024: [AIBOM TT Update (Sept-11-2024)](https://drive.google.com/file/d/1cXZ4Nzaue2C5D_ylyn_ZKi66U9jUQ_iu/view?usp=sharing)
-- AIBOM Workshop repos: [AIBOM Workshop at RSA USA 2024](https://github.com/aibom-squad/rsa-2024) and [AIBOM Workshop at SBOM-a-Rama 2024](https://github.com/aibom-squad/SBOM-a-Rama_AIBOM_Fall2024)
+## Key Activities
+- Finalizing AI SBOM use case publication.
+- Mapping AI SBOM fields to defined use cases.
+- Creating examples of AI SBOMs.
+- Developing white papers and documentation to support industry adoption.
+
+Each in-person workshop (such as at RSAC or SBOM-a-Rama) has a dedicated repository with specific agendas, presentations, and updates.
+
+---
+
+### Additional Resources
+- Example AI SBOMs [here](https://github.com/aibom-squad/rsa-2024/tree/main/aibom%20workshop%20examples/cybeats/cyclonedx) (generated during workshops)
+- Core problems identified by the community, related to AI transparency and AI SBOM needs: [Problem Statements](https://github.com/aibom-squad/AIBOM-Tiger-Team/blob/main/AIBOM-problem-statements.md)
+- Ongoing meeting minutes are maintained in this [Google Doc](https://docs.google.com/document/d/1IpXG7XBOJnPl_hwFf3JZkDaFb0k2CnI0/edit?usp=sharing&ouid=110194678381965933391&rtpof=true&sd=true)
+
+---
 
 ## Participation
-The AIBOM Tiger Team is a community effort. It includes experts from various organizations, contributing diverse perspectives and expertise. We encourage collaboration and welcome new members who are passionate about AI security and transparency.
+The AI SBOM Tiger Team is a community-driven effort, including experts from various organizations contributing diverse perspectives and expertise.  
+We encourage collaboration and welcome new members who are passionate about AI security, transparency, and supply chain integrity.
 
-#### How to Get Involved
-Your one way stop for all key links and meeting details is the [Google Doc](https://docs.google.com/document/d/1IpXG7XBOJnPl_hwFf3JZkDaFb0k2CnI0/edit?usp=sharing&ouid=110194678381965933391&rtpof=true&sd=true).
-- **Attend Weekly Calls:** Join our call bi-weekly, Mondays at 2 PM ET via Zoom (meeting details in the Google doc).
-- **Read Meeting Minutes:** Stay updated by reading the Google doc for meeting minutes.
-- **Contribute & Review:** Participate actively by contributing into on-going working docs, revieweing and providing feedback (all links in the Google doc).
-- **Join Slack:** Participate in our discussions on Slack: bomworkingcommunity.slack.com
+---
 
+### How to Get Involved
+Your one-stop source for all key links and meeting details is the [Google Doc](https://docs.google.com/document/d/1IpXG7XBOJnPl_hwFf3JZkDaFb0k2CnI0/edit?usp=sharing&ouid=110194678381965933391&rtpof=true&sd=true).
+- **Attend Bi-Weekly Calls:** Mondays at 2 PM ET via Zoom (details in the Google Doc).
+- **Stay Updated:** Read the ongoing meeting minutes.
+- **Contribute and Review:** Actively engage in reviewing and contributing to working documents.
+- **Join Slack:** Participate in our Slack discussions: bomworkingcommunity.slack.com
+
+---
 
 ## Contact
-For more information, don't hesitate to reach out to AIBOM Tiger Team co-leads:
-- [Daniel Bardenstein](https://www.linkedin.com/in/bardenstein/)
+For more information, reach out to the AI SBOM Tiger Team co-leads:
 - [Helen Oakley](https://www.linkedin.com/in/helen-oakley/)
+- [Daniel Bardenstein](https://www.linkedin.com/in/bardenstein/)
 - [Dmitry Raidman](https://www.linkedin.com/in/draidman/)
 
-![AIBOM Tiger Team](https://github.com/aibom-workshop/AIBOM-Tiger-Team/blob/main/images/AIBOM-tiger-team.jpg?raw=true)
+![AI SBOM Tiger Team](https://github.com/aibom-workshop/AIBOM-Tiger-Team/blob/main/images/AIBOM-tiger-team.jpg?raw=true)
