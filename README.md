@@ -28,10 +28,10 @@ Our mission is to promote industry-wide transparency, security, and risk managem
 ---
 
 ## Key Activities
-- Finalizing AI SBOM use case publication.
-- Mapping AI SBOM fields to defined use cases.
+- Publishing SBOM for AI Use Cases paper: see final draft [here](https://docs.google.com/document/d/1tQlPxKo9WVyu5XdF-GgxIw9p0iwgdyYD/edit?usp=sharing&ouid=110194678381965933391&rtpof=true&sd=true)] and CISA reference [here](https://github.com/SBOM-Community/documents)].
+- Mapping AI SBOM fields to defined use cases [[Google drive folder with working docs](https://drive.google.com/drive/folders/16y1wcQtwe_6LFosxmRTt5FHjtT2xlgek?usp=sharing)]
 - Creating examples of AI SBOMs.
-- Developing white papers and documentation to support industry adoption.
+- Developing further white papers and/or documentation to support industry adoption.
 
 Each in-person workshop (such as at RSAC or SBOM-a-Rama) has a dedicated repository with specific agendas, presentations, and updates.
 
