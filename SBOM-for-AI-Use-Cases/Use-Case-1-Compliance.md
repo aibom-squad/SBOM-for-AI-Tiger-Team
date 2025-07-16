@@ -24,7 +24,7 @@ Key benefits include:
 - **Efficiency Gains** – Supports automation of documentation, monitoring, and reporting workflows.
 - **Trust and Accountability** – Builds confidence with regulators, partners, and customers through clear, verifiable records of AI system components.
 
-## Example Scenario
+## Example Scenarios
 
 ### Scenario 1: Ensuring Compliance for AI-enabled Medical Wearable Devices
 
