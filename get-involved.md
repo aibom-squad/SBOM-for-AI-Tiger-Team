@@ -16,7 +16,7 @@ Table of Contents
 - Creating examples of SBOMs for AI (e.g., [here](SBOM-Examples/))
 - Developing further white papers and/or documentation to support industry adoption.
 
-Out of scope: SBOM for AI tool creation
+_Out of scope: SBOM for AI tool creation_
 
 Each in-person workshop (such as at RSAC or SBOM-a-Rama) has a dedicated [repository](https://github.com/orgs/aibom-squad/repositories) with specific agendas, presentations, and updates.
 
@@ -33,7 +33,7 @@ Each in-person workshop (such as at RSAC or SBOM-a-Rama) has a dedicated [reposi
 ---
 
 ### Additional Resources
-- SBOM for AU Use Cases are published [here]()
+- SBOM for AI Use Cases are published [here](README.md)
 - Examples SBOMs for AI are [here](SBOM-Examples/)
 - SBOM for AI standardized formats: [CycloneDX](https://cyclonedx.org/capabilities/mlbom/) and [SPDX](https://spdx.dev/learn/areas-of-interest/ai/)
 - SBOM for AI generation tools: find some open-source tools on [CycloneDX Tool Center](https://cyclonedx.org/tool-center/)
