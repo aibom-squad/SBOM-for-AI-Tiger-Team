@@ -1,9 +1,9 @@
 # Use Case 6: Model Tracking, Reproducibility, and Lifecycle Management
 
 ## Problem Statement
-![Use Case 6](images/us6-image.jpg)
+
 <p align="justify">
-  <img src="images/us6-image.jpg" alt="Use Case 6 Illustration" width="300" style="float: right; margin-left: 20px; margin-bottom: 10px;">
+  <img src="../images/us6-image.jpg" alt="Use Case 6 Illustration" width="300" style="float: right; margin-left: 20px; margin-bottom: 10px;">
   AI model development is inherently iterative, involving multiple rounds of experimentation with varying datasets, hyperparameters, and training methods. Without standardized documentation, organizations struggle to reproduce results, validate model performance, or track how models evolve over time. Traditional software tracking tools are not designed to capture the dynamic nature of AI experimentation.
 </p>
 
