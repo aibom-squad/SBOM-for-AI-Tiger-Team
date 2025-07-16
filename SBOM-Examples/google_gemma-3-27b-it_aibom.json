@@ -1,0 +1,221 @@
+{
+  "bomFormat": "CycloneDX",
+  "components": [
+    {
+      "authors": [
+        {
+          "name": "google"
+        }
+      ],
+      "bom-ref": "pkg:huggingface/google/gemma-3-27b-it@1.0",
+      "copyright": "NOASSERTION",
+      "description": "No description available",
+      "externalReferences": [
+        {
+          "type": "website",
+          "url": "https://huggingface.co/google/gemma-3-27b-it"
+        }
+      ],
+      "group": "google",
+      "licenses": [
+        {
+          "license": {
+            "id": "unknown",
+            "url": "https://spdx.org/licenses/"
+          }
+        }
+      ],
+      "manufacturer": {
+        "name": "google",
+        "url": [
+          "https://huggingface.co/google"
+        ]
+      },
+      "modelCard": {
+        "modelParameters": {
+          "architectureFamily": "transformer",
+          "inputs": [
+            {
+              "format": "text"
+            }
+          ],
+          "modelArchitecture": "gemma-3-27b-itForCausalLM",
+          "outputs": [
+            {
+              "format": "generated-text"
+            }
+          ],
+          "task": "text-generation"
+        },
+        "properties": [
+          {
+            "name": "bomFormat",
+            "value": "CycloneDX"
+          },
+          {
+            "name": "specVersion",
+            "value": "1.6"
+          },
+          {
+            "name": "serialNumber",
+            "value": "urn:uuid:google-gemma-3-27b-it"
+          },
+          {
+            "name": "version",
+            "value": "1.0.0"
+          },
+          {
+            "name": "primaryPurpose",
+            "value": "image-text-to-text"
+          },
+          {
+            "name": "suppliedBy",
+            "value": "google"
+          },
+          {
+            "name": "licenses",
+            "value": "gemma"
+          },
+          {
+            "name": "limitation",
+            "value": "in the model's responses, These models have certain limitations that users should be aware of, of our evaluations was they included only\nEnglish language prompts, and developer\n    and end-user education can help mitigate against malicious applications of\n    VLMs, -   Training Data\n    -   The quality and diversity of the training data significantly\n        influence the model's capabilities"
+          },
+          {
+            "name": "safetyRiskAssessment",
+            "value": "Council\nas part of release review, ** Evaluation of text-to-text and image to text prompts\n    covering safety policies including, harassment, violence and gore, and hate\n    speech, identified and mitigations:\n\n-   **Perpetuation of biases**: It's encouraged to perform continuous\n    monitoring (using evaluation metrics, human review) and the exploration of\n    de-biasing techniques during model training, fine-tuning, and other use\n    cases, The development of vision-language models (VLMs) raises several ethical\nconcerns, are essential, policies, including child sexual abuse and\n    exploitation, and Fairness\n    -   VLMs trained on large-scale, real-world text and image data can\n        reflect socio-cultural biases embedded in the training material, policies including bias, stereotyping, and harmful\n    associations or inaccuracies, filters to evaluate the\nmodel capabilities and behaviors, safeguards based on their specific\n    product policies and application use cases, testing, we saw major improvements in the categories of\nchild safety, content safety, and representational harms relative to previous\nGemma models, in\n    line with [our policies][safety-policies], Ethics and safety evaluation approach and results"
+          },
+          {
+            "name": "typeOfModel",
+            "value": "transformer"
+          },
+          {
+            "name": "downloadLocation",
+            "value": "https://huggingface.co/google/gemma-3-27b-it/tree/main"
+          },
+          {
+            "name": "external_references",
+            "value": "[{\"type\": \"website\", \"url\": \"https://huggingface.co/google/gemma-3-27b-it\", \"comment\": \"Model repository\"}, {\"type\": \"distribution\", \"url\": \"https://huggingface.co/google/gemma-3-27b-it/tree/main\", \"comment\": \"Model files\"}]"
+          }
+        ],
+        "quantitativeAnalysis": {
+          "graphics": {}
+        }
+      },
+      "name": "gemma-3-27b-it",
+      "publisher": "google",
+      "purl": "pkg:huggingface/google/gemma-3-27b-it@1.0",
+      "supplier": {
+        "name": "google",
+        "url": [
+          "https://huggingface.co/google"
+        ]
+      },
+      "type": "machine-learning-model",
+      "version": "1.0"
+    }
+  ],
+  "dependencies": [
+    {
+      "dependsOn": [
+        "pkg:huggingface/google/gemma-3-27b-it@1.0"
+      ],
+      "ref": "pkg:generic/google%2Fgemma-3-27b-it@1.0"
+    }
+  ],
+  "externalReferences": [
+    {
+      "type": "distribution",
+      "url": "https://huggingface.co/google/gemma-3-27b-it"
+    }
+  ],
+  "metadata": {
+    "component": {
+      "bom-ref": "pkg:generic/google%2Fgemma-3-27b-it@1.0",
+      "copyright": "NOASSERTION",
+      "description": "No description available",
+      "name": "gemma-3-27b-it",
+      "purl": "pkg:generic/google%2Fgemma-3-27b-it@1.0",
+      "type": "application",
+      "version": "1.0"
+    },
+    "properties": [
+      {
+        "name": "primaryPurpose",
+        "value": "image-text-to-text"
+      },
+      {
+        "name": "suppliedBy",
+        "value": "google"
+      },
+      {
+        "name": "typeOfModel",
+        "value": "transformer"
+      },
+      {
+        "name": "bomFormat",
+        "value": "CycloneDX"
+      },
+      {
+        "name": "specVersion",
+        "value": "1.6"
+      },
+      {
+        "name": "serialNumber",
+        "value": "urn:uuid:google-gemma-3-27b-it"
+      },
+      {
+        "name": "version",
+        "value": "1.0.0"
+      },
+      {
+        "name": "primaryPurpose",
+        "value": "image-text-to-text"
+      },
+      {
+        "name": "suppliedBy",
+        "value": "google"
+      },
+      {
+        "name": "licenses",
+        "value": "gemma"
+      },
+      {
+        "name": "limitation",
+        "value": "in the model's responses, These models have certain limitations that users should be aware of, of our evaluations was they included only\nEnglish language prompts, and developer\n    and end-user education can help mitigate against malicious applications of\n    VLMs, -   Training Data\n    -   The quality and diversity of the training data significantly\n        influence the model's capabilities"
+      },
+      {
+        "name": "safetyRiskAssessment",
+        "value": "Council\nas part of release review, ** Evaluation of text-to-text and image to text prompts\n    covering safety policies including, harassment, violence and gore, and hate\n    speech, identified and mitigations:\n\n-   **Perpetuation of biases**: It's encouraged to perform continuous\n    monitoring (using evaluation metrics, human review) and the exploration of\n    de-biasing techniques during model training, fine-tuning, and other use\n    cases, The development of vision-language models (VLMs) raises several ethical\nconcerns, are essential, policies, including child sexual abuse and\n    exploitation, and Fairness\n    -   VLMs trained on large-scale, real-world text and image data can\n        reflect socio-cultural biases embedded in the training material, policies including bias, stereotyping, and harmful\n    associations or inaccuracies, filters to evaluate the\nmodel capabilities and behaviors, safeguards based on their specific\n    product policies and application use cases, testing, we saw major improvements in the categories of\nchild safety, content safety, and representational harms relative to previous\nGemma models, in\n    line with [our policies][safety-policies], Ethics and safety evaluation approach and results"
+      },
+      {
+        "name": "typeOfModel",
+        "value": "transformer"
+      },
+      {
+        "name": "downloadLocation",
+        "value": "https://huggingface.co/google/gemma-3-27b-it/tree/main"
+      },
+      {
+        "name": "external_references",
+        "value": "[{\"type\": \"website\", \"url\": \"https://huggingface.co/google/gemma-3-27b-it\", \"comment\": \"Model repository\"}, {\"type\": \"distribution\", \"url\": \"https://huggingface.co/google/gemma-3-27b-it/tree/main\", \"comment\": \"Model files\"}]"
+      }
+    ],
+    "timestamp": "2025-07-16T21:40:33.047211Z",
+    "tools": {
+      "components": [
+        {
+          "bom-ref": "pkg:generic/aetheris-ai/aetheris-aibom-generator@1.0.0",
+          "manufacturer": {
+            "name": "Aetheris AI"
+          },
+          "name": "aetheris-aibom-generator",
+          "type": "application",
+          "version": "1.0"
+        }
+      ]
+    }
+  },
+  "serialNumber": "urn:uuid:987d7ef3-9ab5-4c55-9cd0-c61d3dd9e861",
+  "specVersion": "1.6",
+  "version": 1
+}
