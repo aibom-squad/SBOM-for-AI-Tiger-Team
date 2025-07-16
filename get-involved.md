@@ -11,7 +11,7 @@ Table of Contents
 ---
 
 ## Key Activities
-- Publishing SBOM for AI Use Cases paper: see final draft [here](../README.md)] and CISA.gov reference (link - tbd).
+- Publishing SBOM for AI Use Cases paper: see final draft [here](README.md) and CISA.gov reference (link - tbd).
 - Mapping SBOM for AI fields to defined use cases [[Google drive folder with working docs](https://drive.google.com/drive/folders/16y1wcQtwe_6LFosxmRTt5FHjtT2xlgek?usp=sharing)]
 - Creating examples of SBOMs for AI (e.g., [here](SBOM-Examples/))
 - Developing further white papers and/or documentation to support industry adoption.
