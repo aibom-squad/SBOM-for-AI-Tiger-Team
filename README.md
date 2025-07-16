@@ -17,6 +17,24 @@ Our mission is to promote industry-wide transparency, security, and risk managem
 
 ---
 
+## SBOM fot AI Use Cases document
+- **Executive Summary**
+- **Common Audience and Roles** 
+- **Introduction** 
+- **Detailed SBOM for AI Use Cases**
+  - Use Case 1: Compliance
+  - Use Case 2: Vulnerability and Incident Management
+  - Use Case 3: Assessing Risk in Open-Source Models & Datasets
+  - Use Case 4: Third-Party AI Risk Management
+  - Use Case 5: Intellectual Property & Legal Usage
+  - Use Case 6: Model Tracking, Reproducibility, and Lifecycle Management
+- **Key Recommendations and Looking Ahead** 
+- **Appendix**
+  - SBOM for AI Glossary and Terminology
+  - Acknowledgments
+
+---
+
 ## Guiding Principles for SBOM for AI Tiger Team
 - **Outcome-driven:** Focus on achieving tangible results.
 - **Define and stick to scope:** Maintain clear boundaries for our work.
