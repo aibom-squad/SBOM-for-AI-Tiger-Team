@@ -17,7 +17,7 @@ Our mission is to promote industry-wide transparency, security, and risk managem
 
 ---
 
-## SBOM fot AI Use Cases document
+## SBOM for AI Use Cases document
 - **Executive Summary**
 - **Common Audience and Roles** 
 - **Introduction** 
@@ -34,15 +34,6 @@ Our mission is to promote industry-wide transparency, security, and risk managem
   - Acknowledgments
 
 ---
-
-## Guiding Principles for SBOM for AI Tiger Team
-- **Outcome-driven:** Focus on achieving tangible results.
-- **Define and stick to scope:** Maintain clear boundaries for our work.
-- **Work is done outside of meetings:** Use meeting time for collaboration, not for individual work.
-- **No sales or marketing:** Keep discussions and contributions non-commercial.
-- **Expect change and need to adapt:** Stay flexible to new developments.
-- **Not advising USG:** This team does not set government policy.
-
 ---
 
 ## Key Activities
@@ -52,6 +43,16 @@ Our mission is to promote industry-wide transparency, security, and risk managem
 - Developing further white papers and/or documentation to support industry adoption.
 
 Each in-person workshop (such as at RSAC or SBOM-a-Rama) has a dedicated repository with specific agendas, presentations, and updates.
+
+---
+
+## Guiding Principles for SBOM for AI Tiger Team
+- **Outcome-driven:** Focus on achieving tangible results.
+- **Define and stick to scope:** Maintain clear boundaries for our work.
+- **Work is done outside of meetings:** Use meeting time for collaboration, not for individual work.
+- **No sales or marketing:** Keep discussions and contributions non-commercial.
+- **Expect change and need to adapt:** Stay flexible to new developments.
+- **Not advising USG:** This team does not set government policy.
 
 ---
 
