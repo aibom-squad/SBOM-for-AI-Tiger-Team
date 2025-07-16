@@ -11,9 +11,9 @@ Table of Contents
 ---
 
 ## Key Activities
-- Publishing SBOM for AI Use Cases paper: see final draft [here]()] and CISA reference [here]()].
+- Publishing SBOM for AI Use Cases paper: see final draft [here](../README.md)] and CISA.gov reference (link - tbd).
 - Mapping SBOM for AI fields to defined use cases [[Google drive folder with working docs](https://drive.google.com/drive/folders/16y1wcQtwe_6LFosxmRTt5FHjtT2xlgek?usp=sharing)]
-- Creating examples of SBOMs for AI.
+- Creating examples of SBOMs for AI (e.g., [here](SBOM-Examples/))
 - Developing further white papers and/or documentation to support industry adoption.
 
 Out of scope: SBOM for AI tool creation
@@ -34,7 +34,7 @@ Each in-person workshop (such as at RSAC or SBOM-a-Rama) has a dedicated [reposi
 
 ### Additional Resources
 - SBOM for AU Use Cases are published [here]()
-- Examples SBOMs for AI are [here](https://github.com/aibom-squad/rsa-2024/tree/main/aibom%20workshop%20examples/cybeats/cyclonedx) (generated during workshops)
+- Examples SBOMs for AI are [here](SBOM-Examples/)
 - SBOM for AI standardized formats: [CycloneDX](https://cyclonedx.org/capabilities/mlbom/) and [SPDX](https://spdx.dev/learn/areas-of-interest/ai/)
 - SBOM for AI generation tools: find some open-source tools on [CycloneDX Tool Center](https://cyclonedx.org/tool-center/)
 
@@ -62,4 +62,4 @@ For more information, reach out to the SBOM for AI Tiger Team co-leads:
 - [Daniel Bardenstein](https://www.linkedin.com/in/bardenstein/)
 - [Dmitry Raidman](https://www.linkedin.com/in/draidman/)
 
-![AI SBOM Tiger Team](https://github.com/aibom-workshop/AIBOM-Tiger-Team/blob/main/images/AIBOM-tiger-team.jpg?raw=true)
+![AI SBOM Tiger Team](https://github.com/aibom-workshop/SBOM-for-AI-Tiger-Team/blob/main/images/AIBOM-tiger-team.jpg?raw=true)
