@@ -2,17 +2,9 @@
 
 ## Problem Statement
 
-<table>
-<tr>
-<td style="width:70%">
 AI model development is inherently iterative, involving multiple rounds of experimentation with varying datasets, hyperparameters, and training methods. Without standardized documentation, organizations struggle to reproduce results, validate model performance, or track how models evolve over time. Traditional software tracking tools are not designed to capture the dynamic nature of AI experimentation.
-</td>
-<td style="width:30%" valign="top">
-<img src="../../images/us6-image.jpg" alt="Use Case 6 Illustration" width="900">
-</td>
-</tr>
-</table>
 
+![Use Case 6 Illustration](../../images/us6-image.jpg)
 
 An SBOM for AI provides a structured, machine-readable artifact that captures comprehensive metadata about data sources, model architecture, training procedures, tuning decisions, and computational environments. This enables accurate model tracking, supports reproducibility, and simplifies lifecycle oversight for audits and internal governance.
 <br><br>
