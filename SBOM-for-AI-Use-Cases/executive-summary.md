@@ -5,8 +5,7 @@ Organizations worldwide are rapidly adopting the latest innovations in Artificia
 Software Bills of Materials (SBOMs) have become a globally adopted standard for managing software supply chain risk. Similarly, SBOM for AIs offer a practical and standardized way to improve transparency, security, and trust across AI systems, supporting stakeholders across security, compliance, governance, and legal teams.
 
 This document provides an overview of SBOM for AIs, focusing on key use cases that help organizations manage risks and responsibilities across industries.
- 
-
+<br><br>
 At a high level, SBOM for AIs enable organizations to:
 
 *   **Compliance**: Meet emerging regulatory and customer expectations for AI transparency and accountability through structured, auditable inventories of AI components.
@@ -20,7 +19,7 @@ At a high level, SBOM for AIs enable organizations to:
 *   **Open Source Model Risk Assessment**: Evaluate the trustworthiness and compliance of publicly sourced models and datasets before integration into internal systems.
 
 *   **Model Lifecycle and Asset Management**: Track model lineage, configurations, datasets, and energy usage to improve reproducibility, lifecycle oversight, inventory accuracy, and sustainability metrics.
-
+<br><br>
 
 ## Implementation Priorities
 
