@@ -24,15 +24,15 @@ To effectively assess and manage these risks, organizations need a standardized,
 
 ## Example Scenarios
 
-*   **Scenario 1: Preventing License Violations**
+**Scenario 1: Preventing License Violations**
 
 A development team plans to integrate an open-source language model into its product. By consulting the SBOM for AI, the team discovers the model is trained on datasets with conflicting licenses that are incompatible with its product’s commercial use. The team opts to use a different model, avoiding potential legal disputes and product launch delays.
 
-*   **Scenario 2: Mitigating Supply Chain Risk**
+**Scenario 2: Mitigating Supply Chain Risk**
 
 An AI developer intends to incorporate an open-source model into the developer’s application. The SBOM for AI identifies the model’s owner or author, which can then be used for trust analyses and model integrity checks to detect any tampering.  Armed with this information, the developer decides to choose a different/more secure model, thereby preventing potential  supply chain risk.
 
-*   **Scenario 3: Model Lineage and Model Provenance** 
+**Scenario 3: Model Lineage and Model Provenance** 
 
 A financial institution considers using an open-source model as a base for a credit scoring system. The SBOM for AI reveals the model’s lineage—it is a fine-tuned version of another base model—and also its provenance, including the origin and development path of both models. This information highlights that the base model violates the institution’s internal risk policies, preventing its adoption.
 
