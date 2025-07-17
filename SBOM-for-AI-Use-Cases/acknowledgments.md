@@ -1,5 +1,7 @@
 # Appendix B – Acknowledgments
 
+[Back to Table of Contents](../README.md#table-of-contents)
+
 This document was a community-driven effort, developed with the contributions of experts from both the public and private sectors who volunteered their time and expertise outside of their normal responsibilities to plan, draft, and refine this guidance.
 
 The [SBOM for AI Tiger Team](README.md) was led by **Helen Oakley**, **Daniel Bardenstein**, and **Dmitry Raidman**, whose leadership, vision, and coordination were instrumental in shaping the content and direction of this work. We also acknowledge the valuable participation of working group members who brought deep experience in application security, software supply chain, AI governance, and tooling implementation.
