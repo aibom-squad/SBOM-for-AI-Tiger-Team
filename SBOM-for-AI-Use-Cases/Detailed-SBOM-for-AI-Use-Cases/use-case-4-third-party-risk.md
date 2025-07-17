@@ -1,5 +1,7 @@
 # Use Case 4: Third-Party AI Risk Management
 
+[Back to Table of Contents](../../README.md#table-of-contents)
+
 ## Problem Statement
 
 Organizations increasingly embed third-party AI products and services into internal infrastructure and customer-facing applications. However, a lack of transparency into the underlying models, training datasets, and licensing terms exposes organizations to data privacy violations, regulatory non-compliance, security vulnerabilities, and ethical risks. Without comprehensive insight into these components, risk management becomes reactive and fragmented—leaving organizations exposed to liability and reputational harm.
