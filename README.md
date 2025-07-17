@@ -1,68 +1,52 @@
 # SBOM for AI Tiger Team
 
-## Table of Contents
-- [Overview](#overview)
-- [Guiding Principles](#guiding-principles)
-- [Key Activities](#key-activities)
-  - [Additional Resources](#additional-resources)
-- [Participation](#participation)
-  - [How to Get Involved](#how-to-get-involved)
-- [Contact](#contact)
+## Overview of the SBOM for AI Tiger Team
+
+🚀 The SBOM for AI Tiger Team is a collaborative initiative launched in May 2024, following our inaugural AIBOM workshop at RSAC 2024. Since then, we’ve worked across the industry to define real-world use cases, with contributions from distinguished experts and broad community review.
+
+🎯 Our mission is to promote industry-wide transparency, security, and risk management for AI systems through the development of SBOM for AI guidelines.
+
+✅ As a result of our efforts, the team has finalized the first public draft of the SBOM for AI Use Cases, now available for community to use on this GitHub (see below) and will be published on CISA.gov.
+
+🧩 Our ongoing work includes mapping these use cases to technical formats such as CycloneDX and SPDX to support practical adoption. To learn more or get involved, visit [this page](get-involved.md).
+<br><br>
 
 ---
 
-## Overview
-The SBOM for AI Tiger Team is a collaborative group focused on exploring, defining, and operationalizing the concept of AI SBOMs (AI Software Bill of Materials).  
-Our mission is to promote industry-wide transparency, security, and risk management for AI systems through the development of AI SBOM best practices.
+## SBOM for AI Use Cases
+🧾 Use cases and recommendations to operationalize Software Bills of Materials (SBOMs) for Artificial Intelligence (AI).
+
+>CISA SBOM for AI  Tiger Team
+>
+>Version: 0.3 Draft ([Google Doc Version](https://docs.google.com/document/d/1tQlPxKo9WVyu5XdF-GgxIw9p0iwgdyYD/edit?usp=sharing&ouid=110194678381965933391&rtpof=true&sd=true))
+>
+>Date: June 23, 2025
+<br><br>
+
+### 📝 Disclaimer
+
+>This document was drafted in an open process by a community of Software Bill of Materials (SBOM) experts, facilitated by the Cybersecurity and Infrastructure Security Agency (CISA). CISA did not draft and is not the author of this document, nor does this document represent an official CISA and/or U.S. Government policy. CISA and the U.S. Government do not specifically adopt or endorse the views expressed in this document.
+Nothing in this document should be considered binding on any organization and instead should be viewed as forming a basis for future requirements covering SBOM consumption and usage. 
+<br><br>
+
+### 📚 Table of Contents
+
+- [**Executive Summary**](SBOM-for-AI-Use-Cases/executive-summary.md)
+- [**Common Audience and Roles**](SBOM-for-AI-Use-Cases/common-audience-and-roles.md)
+- [**Introduction**](SBOM-for-AI-Use-Cases/introduction.md)
+- **Detailed SBOM for AI Use Cases**
+  - [Use Case 1: Compliance](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/use-case-1-compliance.md)
+  - [Use Case 2: Vulnerability and Incident Management](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/use-case-2-vulnerability.md)
+  - [Use Case 3: Assessing Risk in Open-Source Models & Datasets](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/use-case-3-open-source-risk.md)
+  - [Use Case 4: Third-Party AI Risk Management](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/use-case-4-third-party-risk.md)
+  - [Use Case 5: Intellectual Property & Legal Usage](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/use-case-5-ip-legal.md)
+  - [Use Case 6: Model Tracking, Reproducibility, and Lifecycle Management](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/use-case-6-lifecycle.md)
+- [**Key Recommendations and Looking Ahead**](SBOM-for-AI-Use-Cases/recommendations.md)
+- **Appendix**
+  - [SBOM for AI Glossary and Terminology](SBOM-for-AI-Use-Cases/glossary.md)
+  - [Acknowledgments](SBOM-for-AI-Use-Cases/acknowledgments.md)
+
+
 
 ---
 
-## Guiding Principles for SBOM for AI Tiger Team
-- **Outcome-driven:** Focus on achieving tangible results.
-- **Define and stick to scope:** Maintain clear boundaries for our work.
-- **Work is done outside of meetings:** Use meeting time for collaboration, not for individual work.
-- **No sales or marketing:** Keep discussions and contributions non-commercial.
-- **Expect change and need to adapt:** Stay flexible to new developments.
-- **Not advising USG:** This team does not set government policy.
-
----
-
-## Key Activities
-- Publishing SBOM for AI Use Cases paper: see final draft [here](https://docs.google.com/document/d/1tQlPxKo9WVyu5XdF-GgxIw9p0iwgdyYD/edit?usp=sharing&ouid=110194678381965933391&rtpof=true&sd=true)] and CISA reference [here](https://github.com/SBOM-Community/documents)].
-- Mapping SBOM for AI fields to defined use cases [[Google drive folder with working docs](https://drive.google.com/drive/folders/16y1wcQtwe_6LFosxmRTt5FHjtT2xlgek?usp=sharing)]
-- Creating examples of SBOMs for AI.
-- Developing further white papers and/or documentation to support industry adoption.
-
-Each in-person workshop (such as at RSAC or SBOM-a-Rama) has a dedicated repository with specific agendas, presentations, and updates.
-
----
-
-### Additional Resources
-- Example SBOMs for AI [here](https://github.com/aibom-squad/rsa-2024/tree/main/aibom%20workshop%20examples/cybeats/cyclonedx) (generated during workshops)
-- Core problems identified by the community, related to AI transparency and SBOM for AI needs: [Problem Statements](https://github.com/aibom-squad/AIBOM-Tiger-Team/blob/main/AIBOM-problem-statements.md)
-- Ongoing meeting minutes are maintained in this [Google Doc](https://docs.google.com/document/d/1IpXG7XBOJnPl_hwFf3JZkDaFb0k2CnI0/edit?usp=sharing&ouid=110194678381965933391&rtpof=true&sd=true)
-
----
-
-## Participation
-The SBOM for AI Tiger Team is a community-driven effort, including experts from various organizations contributing diverse perspectives and expertise.  
-We encourage collaboration and welcome new members who are passionate about AI security, transparency, and supply chain integrity.
-
----
-
-### How to Get Involved
-Your one-stop source for all key links and meeting details is the [Google Doc](https://docs.google.com/document/d/1IpXG7XBOJnPl_hwFf3JZkDaFb0k2CnI0/edit?usp=sharing&ouid=110194678381965933391&rtpof=true&sd=true).
-- **Attend Bi-Weekly Calls:** Mondays at 2 PM ET via Zoom (details in the Google Doc).
-- **Stay Updated:** Read the ongoing meeting minutes.
-- **Contribute and Review:** Actively engage in reviewing and contributing to working documents.
-- **Join Slack:** Participate in our Slack discussions: bomworkingcommunity.slack.com
-
----
-
-## Contact
-For more information, reach out to the SBOM for AI Tiger Team co-leads:
-- [Helen Oakley](https://www.linkedin.com/in/helen-oakley/)
-- [Daniel Bardenstein](https://www.linkedin.com/in/bardenstein/)
-- [Dmitry Raidman](https://www.linkedin.com/in/draidman/)
-
-![AI SBOM Tiger Team](https://github.com/aibom-workshop/AIBOM-Tiger-Team/blob/main/images/AIBOM-tiger-team.jpg?raw=true)
