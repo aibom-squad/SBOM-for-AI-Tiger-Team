@@ -31,20 +31,21 @@ Nothing in this document should be considered binding on any organization and in
 
 ### 📚 Table of Contents
 
-- [**Executive Summary**](executive-summary.md)
-- [**Common Audience and Roles**](common-audience-and-roles.md)
-- [**Introduction**](introduction.md)
+- [**Executive Summary**](SBOM-for-AI-Use-Cases/executive-summary.md)
+- [**Common Audience and Roles**](SBOM-for-AI-Use-Cases/common-audience-and-roles.md)
+- [**Introduction**](SBOM-for-AI-Use-Cases/introduction.md)
 - **Detailed SBOM for AI Use Cases**
-  - [Use Case 1: Compliance](Detailed-SBOM-for-AI-Use-Cases/use-case-1-compliance.md)
-  - [Use Case 2: Vulnerability and Incident Management](Detailed-SBOM-for-AI-Use-Cases/use-case-2-vulnerability.md)
-  - [Use Case 3: Assessing Risk in Open-Source Models & Datasets](Detailed-SBOM-for-AI-Use-Cases/use-case-3-open-source-risk.md)
-  - [Use Case 4: Third-Party AI Risk Management](Detailed-SBOM-for-AI-Use-Cases/use-case-4-third-party-risk.md)
-  - [Use Case 5: Intellectual Property & Legal Usage](Detailed-SBOM-for-AI-Use-Cases/use-case-5-ip-legal.md)
-  - [Use Case 6: Model Tracking, Reproducibility, and Lifecycle Management](Detailed-SBOM-for-AI-Use-Cases/use-case-6-lifecycle.md)
-- [**Key Recommendations and Looking Ahead**](recommendations.md)
+  - [Use Case 1: Compliance](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/use-case-1-compliance.md)
+  - [Use Case 2: Vulnerability and Incident Management](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/use-case-2-vulnerability.md)
+  - [Use Case 3: Assessing Risk in Open-Source Models & Datasets](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/use-case-3-open-source-risk.md)
+  - [Use Case 4: Third-Party AI Risk Management](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/use-case-4-third-party-risk.md)
+  - [Use Case 5: Intellectual Property & Legal Usage](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/use-case-5-ip-legal.md)
+  - [Use Case 6: Model Tracking, Reproducibility, and Lifecycle Management](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/use-case-6-lifecycle.md)
+- [**Key Recommendations and Looking Ahead**](SBOM-for-AI-Use-Cases/recommendations.md)
 - **Appendix**
-  - [SBOM for AI Glossary and Terminology](Detailed-SBOM-for-AI-Use-Cases/glossary.md)
-  - [Acknowledgments](Detailed-SBOM-for-AI-Use-Cases/acknowledgments.md)
+  - [SBOM for AI Glossary and Terminology](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/glossary.md)
+  - [Acknowledgments](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/acknowledgments.md)
+
 
 
 ---
