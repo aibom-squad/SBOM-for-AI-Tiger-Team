@@ -1,5 +1,7 @@
 # Use Case 3: Assessing Risk in Open-Source Models & Datasets
 
+[Back to Table of Contents](../../README.md#table-of-contents)
+
 ## Problem Statement
 
 Organizations are increasingly incorporating open-source AI models and datasets to accelerate development and reduce costs. These assets, much like third-party software, become part of the organization’s supply chain and must be properly vetted and managed.
