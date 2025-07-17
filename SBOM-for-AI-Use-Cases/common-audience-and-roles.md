@@ -1,5 +1,7 @@
 # Common Audience and Roles
 
+[Back to Table of Contents](../README.md#table-of-contents)
+
 This document is intended for diverse stakeholders within organizations who are involved in managing, deploying, securing, and overseeing AI systems. The following roles represent typical personas who could leverage AI Software Bills of Materials (SBOM for AIs) for operationalizing transparency, compliance, security, and governance in AI ecosystems. These examples are illustrative and not exhaustive:
 
 *   **AI Platform Engineers** – Implement and manage SBOM for AI tools within ML pipelines, maintaining inventories of models, datasets, and components.
