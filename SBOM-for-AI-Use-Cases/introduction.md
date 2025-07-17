@@ -1,5 +1,7 @@
 # Introduction
 
+[Back to Table of Contents](../README.md#table-of-contents)
+
 ## What is an SBOM for AI?
 
 An SBOM for AI (Software Bill of Materials for (Artificial Intelligence) is an extension of a traditional SBOM—defined in resources such as [CISA’s “Framing Software Component Transparency: Establishing a Common Software Bill of Materials (SBOM)” (2024)](https://www.cisa.gov/sites/default/files/2024-10/SBOM%20Framing%20Software%20Component%20Transparency%202024.pdf)—designed to provide transparency, security, and compliance for AI systems. It is machine-readable (e.g., JSON, XML formats) and aligns with existing SBOM frameworks, incorporating AI-specific fields such as model metadata, training data, and inference behaviors.
