@@ -43,8 +43,8 @@ Nothing in this document should be considered binding on any organization and in
   - [Use Case 6: Model Tracking, Reproducibility, and Lifecycle Management](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/use-case-6-lifecycle.md)
 - [**Key Recommendations and Looking Ahead**](SBOM-for-AI-Use-Cases/recommendations.md)
 - **Appendix**
-  - [SBOM for AI Glossary and Terminology](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/glossary.md)
-  - [Acknowledgments](SBOM-for-AI-Use-Cases/Detailed-SBOM-for-AI-Use-Cases/acknowledgments.md)
+  - [SBOM for AI Glossary and Terminology](SBOM-for-AI-Use-Cases/glossary.md)
+  - [Acknowledgments](SBOM-for-AI-Use-Cases/acknowledgments.md)
 
 
 
