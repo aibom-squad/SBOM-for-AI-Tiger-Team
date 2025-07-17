@@ -1,5 +1,7 @@
 # Use Case 5: Intellectual Property & Legal Usage
 
+[Back to Table of Contents](../../README.md#table-of-contents)
+
 ## Problem Statement
 
 AI models often arrive at organizations with limited transparency about how they were trained, what data was used, and under which legal or ethical constraints they can be deployed. Without this visibility, organizations risk violating licensing agreements, regulatory mandates, or internal data governance policies—particularly when models are trained on proprietary data, personal information, or regulated datasets.
