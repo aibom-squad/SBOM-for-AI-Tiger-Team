@@ -9,26 +9,25 @@
 ✅ As a result of our efforts, the team has finalized the first public draft of the SBOM for AI Use Cases, now available for community to use on this GitHub (see below) and will be published on CISA.gov.
 
 🧩 Our ongoing work includes mapping these use cases to technical formats such as CycloneDX and SPDX to support practical adoption. To learn more or get involved, visit [this page](get-involved.md).
-
+<br><br>
 
 ---
 
 ## SBOM for AI Use Cases
-Use cases and recommendations to operationalize Software Bills of Materials (SBOMs) for Artificial Intelligence (AI).
+🧾 Use cases and recommendations to operationalize Software Bills of Materials (SBOMs) for Artificial Intelligence (AI).
 
 >CISA SBOM for AI  Tiger Team
 >
 >Version: 0.3 Draft ([Google Doc Version](https://docs.google.com/document/d/1tQlPxKo9WVyu5XdF-GgxIw9p0iwgdyYD/edit?usp=sharing&ouid=110194678381965933391&rtpof=true&sd=true))
 >
 >Date: June 23, 2025
-
+<br><br>
 
 ### 📝 Disclaimer
 
 >This document was drafted in an open process by a community of Software Bill of Materials (SBOM) experts, facilitated by the Cybersecurity and Infrastructure Security Agency (CISA). CISA did not draft and is not the author of this document, nor does this document represent an official CISA and/or U.S. Government policy. CISA and the U.S. Government do not specifically adopt or endorse the views expressed in this document.
 Nothing in this document should be considered binding on any organization and instead should be viewed as forming a basis for future requirements covering SBOM consumption and usage. 
-
-
+<br><br>
 
 ### 📚 Table of Contents
 
