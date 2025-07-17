@@ -1,5 +1,7 @@
 # Executive Summary
 
+[Back to Table of Contents](../README.md#table-of-contents)
+
 Organizations worldwide are rapidly adopting the latest innovations in Artificial Intelligence (AI), such as Generative AI and Large Language Models (LLMs). This new technology introduces a range of business, legal, and security risks—many of which require new strategies, but some of which mirror known software supply chain challenges.
 
 Software Bills of Materials (SBOMs) have become a globally adopted standard for managing software supply chain risk. Similarly, SBOM for AIs offer a practical and standardized way to improve transparency, security, and trust across AI systems, supporting stakeholders across security, compliance, governance, and legal teams.
