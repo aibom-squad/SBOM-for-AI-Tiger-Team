@@ -1,6 +1,6 @@
 # Use Case 1: Compliance
 
-[Back to Table of Contents](../README.md#table-of-contents)
+[Back to Table of Contents](../../README.md#table-of-contents)
 
 ## Problem Statement
 
