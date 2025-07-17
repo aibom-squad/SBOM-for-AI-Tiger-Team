@@ -1,5 +1,7 @@
 # Key Recommendations 
 
+[Back to Table of Contents](../README.md#table-of-contents)
+
 SBOM for AI plays a critical role in strengthening transparency, security, and compliance within AI ecosystems. As AI adoption expands, organizations must take a proactive approach to managing risks, ensuring governance, and meeting regulatory expectations. Successfully operationalizing SBOM for AI requires more than documentation—it demands integration into security, risk, and compliance processes and tools, as well as automation for scalability and efficiency.
 
 To effectively implement SBOM for AI and maximize its impact, organizations should focus on the following key areas:
