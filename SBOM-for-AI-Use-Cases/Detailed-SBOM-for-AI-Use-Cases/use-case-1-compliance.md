@@ -1,5 +1,7 @@
 # Use Case 1: Compliance
 
+[Back to Table of Contents](../README.md#table-of-contents)
+
 ## Problem Statement
 
 AI systems are complex, dynamic, and often opaque. Regulators, auditors, and other stakeholders are increasingly demanding greater transparency into how AI models are built, trained, and maintained. Compliance with SBOM and AI-specific regulations—such as the [Federal Acquisition Regulation (FAR)](https://www.federalregister.gov/documents/2023/10/03/2023-21328/federal-acquisition-regulation-cyber-threat-and-incident-reporting-and-information-sharing), the [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai), [U.S. Food and Drug Administration (FDA) Guidance](https://www.fda.gov/medical-devices/software-medical-device-samd/transparency-machine-learning-enabled-medical-devices-guiding-principles), and industry-specific guidelines (e.g., [HHS ONC HTI-1 in healthcare](https://www.healthit.gov/topic/laws-regulation-and-policy/health-data-technology-and-interoperability-certification-program)—requires a clear, traceable record of every component used throughout AI development and deployment.
