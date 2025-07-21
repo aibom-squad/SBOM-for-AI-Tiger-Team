@@ -18,7 +18,7 @@
 
 >CISA SBOM for AI  Tiger Team
 >
->Version: 0.3 Draft ([Google Doc Version](https://docs.google.com/document/d/1tQlPxKo9WVyu5XdF-GgxIw9p0iwgdyYD/edit?usp=sharing&ouid=110194678381965933391&rtpof=true&sd=true))
+>Version: 0.3 Draft ([Google Doc Version](https://docs.google.com/document/d/1tQlPxKo9WVyu5XdF-GgxIw9p0iwgdyYD/edit?usp=sharing&ouid=110194678381965933391&rtpof=true&sd=true)) ([PDF Version](SBOM-for-AI-Use-Cases/SBOM_for_AI_Use_Cases_(FinalDraft_v0.3).pdf))
 >
 >Date: June 23, 2025
 <br><br>
