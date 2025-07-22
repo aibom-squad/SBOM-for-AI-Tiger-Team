@@ -15,7 +15,7 @@
   - [SBOM for AI Glossary and Terminology](SBOM-for-AI-Use-Cases/glossary.md)
   - [Acknowledgments](SBOM-for-AI-Use-Cases/acknowledgments.md)
 
-## SBOM for AI Use Cases
+### SBOM for AI Use Cases (Complete Doc)
 🧾 Use cases and recommendations to operationalize Software Bills of Materials (SBOMs) for Artificial Intelligence (AI).
 
 >CISA SBOM for AI  Tiger Team
