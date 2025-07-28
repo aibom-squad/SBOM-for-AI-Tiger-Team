@@ -40,4 +40,5 @@ Participation in this initiative and inclusion in these acknowledgments do not i
 | Elyas | Rashno | Queen's University |
 | Cassie | Crossley | Schneider Electric |
 | Arthit | Suriyawongkul | ADAPT Centre, Trinity College Dublin |
+| Victor | Lu | Independent |
 
